@@ -5,7 +5,6 @@
         "spatie",
         "ssl-certificate"
     ],
-    "minimum-stability": "dev",
     "homepage": "https://github.com/spatie/ssl-certificate",
     "license": "MIT",
     "authors": [
@@ -45,5 +44,6 @@
     },
     "config": {
         "sort-packages": true
-  }
+  },
+    "minimum-stability": "stable"
 }
